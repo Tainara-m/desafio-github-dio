@@ -83,3 +83,5 @@
 └── exemplo1.txt
 
 ---
+
+Teste de commit feito por colaborador.
