@@ -84,4 +84,5 @@
 
 ---
 
-Teste de commit feito por colaborador.
+Commit feito por colaborador.
+Adição de Branch
